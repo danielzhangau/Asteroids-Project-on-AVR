@@ -17,6 +17,9 @@ The program is a simple version of Asteroids. The AVR ATmega324A microcontroller
 - terminalio.h/terminalio.c – this encapsulates the sending of various escape sequences which enable some control over terminal appearance and text placement – you can call these functions (declared in terminalio.h) instead of remembering various escape sequences. Additional information about terminal IO will be provided on the course Blackboard site.
 - timer0.h/timer0.c – sets up a timer that is used to generate an interrupt every millisecond and update a global time value.
 
+How it looks like on digital board:
+![GUI](https://github.com/danielzhangau/CSSE2010-c-introduction/blob/master/CSSE2010Project/CSSE2010_CSSE7201_2019_project%20-%20with%20clarifications.jpg?raw=true)
+
 # What I learned:
 - C programming
 - C programming for the AVR
